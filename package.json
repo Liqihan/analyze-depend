@@ -1,0 +1,23 @@
+{
+  "name": "analyze-depend",
+  "version": "1.0.0",
+  "description": "依赖分析工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Liqihan/analyze-depend.git"
+  },
+  "keywords": [
+    "depend",
+    "analyze"
+  ],
+  "author": "grove.liqihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liqihan/analyze-depend/issues"
+  },
+  "homepage": "https://github.com/Liqihan/analyze-depend#readme"
+}
